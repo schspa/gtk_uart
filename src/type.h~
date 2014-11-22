@@ -1,6 +1,0 @@
-
-typedef uint8_t __attribute__ char;
-typedef uint32_t int;
-
-
-
